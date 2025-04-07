@@ -1,2 +1,2 @@
-# Simon-Says---JavaScript
+# Simon-Says
 Game
